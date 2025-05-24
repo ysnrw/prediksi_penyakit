@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagnosa Penyakit dari Keluhan</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.18.0/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Diagnosa Awal Penyakit</h1>
+        <p class="subtitle">Masukkan keluhan Anda untuk mendapatkan prediksi penyakit dan penanganan awal</p>
+        
+        <div class="input-section">
+            <textarea id="keluhan-input" placeholder="Contoh: Saya mengalami demam tinggi, sakit kepala, dan nyeri otot..."></textarea>
+            <button id="predict-btn">Diagnosa</button>
+        </div>
+        
+        <div class="result-section hidden">
+            <h2>Hasil Prediksi</h2>
+            <div class="result-card">
+                <div class="disease-info">
+                    <h3 id="predicted-disease">-</h3>
+                    <p id="confidence">Tingkat kepercayaan: -</p>
+                </div>
+                <div class="treatment-info">
+                    <h4>Penanganan Awal:</h4>
+                    <p id="treatment-text">-</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="info-section">
+            <p><strong>Catatan:</strong> Aplikasi ini hanya memberikan diagnosa awal berdasarkan machine learning. 
+            Konsultasikan dengan dokter untuk pemeriksaan lebih lanjut.</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,712 @@
+[
+    {
+        "keluhan": "demam tinggi sakit kepala nyeri otot",
+        "penyakit": "Demam Berdarah Dengue",
+        "solusi": "Istirahat total, banyak minum, kompres dingin, pantau trombosit. Hindari obat pengencer darah."
+    },
+    {
+        "keluhan": "demam menggigil sakit kepala nyeri sendi",
+        "penyakit": "Malaria",
+        "solusi": "Pengobatan antimalaria wajib, istirahat, hidrasi cukup. Gunakan kelambu berinsektisida untuk pencegahan."
+    },
+    {
+        "keluhan": "batuk berdahak kuning demam sesak nafas",
+        "penyakit": "Bronkitis Akut",
+        "solusi": "Uap hangat, ekspektoran, antibiotik jika infeksi bakteri. Hindari polusi udara dan rokok."
+    },
+    {
+        "keluhan": "batuk kering lebih 3 minggu berat badan turun",
+        "penyakit": "Tuberkulosis",
+        "solusi": "Isolasi, pengobatan antibiotik kombinasi 6 bulan. Wajib notifikasi ke dinas kesehatan setempat."
+    },
+    {
+        "keluhan": "sesak nafas mengi dada terasa sempit",
+        "penyakit": "Asma",
+        "solusi": "Inhaler bronkodilator, hindari pemicu alergi. Jika serangan berat segera ke UGD."
+    },
+    {
+        "keluhan": "nyeri dada kiri menjalar ke lengan keringat dingin",
+        "penyakit": "Serangan Jantung",
+        "solusi": "Segera ke IGD. Kunyah aspirin 325mg jika tidak alergi. Jangan tunda ke rumah sakit."
+    },
+    {
+        "keluhan": "tekanan darah tinggi sakit kepala penglihatan kabur",
+        "penyakit": "Krisis Hipertensi",
+        "solusi": "Obat antihipertensi kerja cepat, istirahat, monitor tekanan darah setiap 15 menit."
+    },
+    {
+        "keluhan": "gula darah tinggi sering haus sering kencing lemas",
+        "penyakit": "Hiperglikemia",
+        "solusi": "Insulin cepat, banyak minum air, segera ke dokter jika ada mual/muntah."
+    },
+    {
+        "keluhan": "gula darah rendah gemetar keringat dingin lemas",
+        "penyakit": "Hipoglikemia",
+        "solusi": "Segera konsumsi gula sederhana (jus, permen), lalu makanan mengandung karbohidrat kompleks."
+    },
+    {
+        "keluhan": "sakit perut kanan bawah demam mual",
+        "penyakit": "Apendisitis",
+        "solusi": "Jangan makan/minum. Segera ke UGD untuk evaluasi operasi. Jangan minum obat penghilang nyeri."
+    },
+    {
+        "keluhan": "muntah darah BAB hitam lemas",
+        "penyakit": "Perdarahan Saluran Cerna",
+        "solusi": "Puasa, segera ke rumah sakit. Butuh endoskopi untuk diagnosis dan terapi."
+    },
+    {
+        "keluhan": "diare berair lebih 10x/hari lemas",
+        "penyakit": "Kolera",
+        "solusi": "Oralit atau cairan rehidrasi, antibiotik khusus, isolasi untuk mencegah penularan."
+    },
+    {
+        "keluhan": "sakit perut diare berdarah demam",
+        "penyakit": "Disentri",
+        "solusi": "Antibiotik spesifik, hidrasi cukup, cuci tangan pakai sabun untuk mencegah penularan."
+    },
+    {
+        "keluhan": "kulit kuning mata kuning urine gelap",
+        "penyakit": "Hepatitis Akut",
+        "solusi": "Istirahat total, hindari alkohol dan obat yang memberatkan hati, pemeriksaan fungsi hati."
+    },
+    {
+        "keluhan": "perut buncit kaki bengkak kulit kuning",
+        "penyakit": "Sirosis Hati",
+        "solusi": "Diet rendah garam, hindari alkohol, obat diuretik, evaluasi transplantasi hati."
+    },
+    {
+        "keluhan": "nyeri perut ulu hati menjalar ke punggung muntah",
+        "penyakit": "Pankreatitis Akut",
+        "solusi": "Puasa, cairan infus, pereda nyeri kuat. Butuh perawatan intensif di rumah sakit."
+    },
+    {
+        "keluhan": "kencing sedikit bengkak di wajah dan kaki",
+        "penyakit": "Gagal Ginjal Akut",
+        "solusi": "Batasi cairan dan garam, segera ke rumah sakit untuk evaluasi cuci darah darurat."
+    },
+    {
+        "keluhan": "nyeri pinggang kencing berdarah",
+        "penyakit": "Batu Ginjal",
+        "solusi": "Banyak minum air, obat pereda nyeri, saring urine untuk menangkap batu."
+    },
+    {
+        "keluhan": "sering kencing anyang-anyangan nyeri",
+        "penyakit": "Infeksi Saluran Kemih",
+        "solusi": "Banyak minum air putih, antibiotik sesuai resep dokter, hindari menahan kencing."
+    },
+    {
+        "keluhan": "kencing tidak tuntas aliran kencing lemah",
+        "penyakit": "Pembesaran Prostat",
+        "solusi": "Obat alpha blocker, hindari minum banyak sebelum tidur, evaluasi operasi jika berat."
+    },
+    {
+        "keluhan": "demam nyeri sendi ruam kulit",
+        "penyakit": "Demam Berdarah",
+        "solusi": "Istirahat, banyak minum, kompres dingin. Segera ke dokter jika ada perdarahan."
+    },
+    {
+        "keluhan": "demam nyeri tenggorokan pembesaran kelenjar",
+        "penyakit": "Mononukleosis Infeksiosa",
+        "solusi": "Istirahat panjang, hindari aktivitas berat, pengobatan simtomatik untuk nyeri dan demam."
+    },
+    {
+        "keluhan": "demam ruam merah di telapak tangan dan kaki",
+        "penyakit": "Penyakit Kaki Tangan Mulut",
+        "solusi": "Isolasi, obat penurun demam, pastikan hidrasi cukup meski sakit saat menelan."
+    },
+    {
+        "keluhan": "demam ruam merah mulai dari wajah menyebar",
+        "penyakit": "Campak",
+        "solusi": "Isolasi, vitamin A dosis tinggi, kompres dingin untuk demam, vaksinasi setelah sembuh."
+    },
+    {
+        "keluhan": "demam ruam gelembung air gatal",
+        "penyakit": "Cacar Air",
+        "solusi": "Jangan digaruk, bedak kalamin, antivirus jika dalam 24 jam pertama muncul ruam."
+    },
+    {
+        "keluhan": "demam nyeri otot sakit kepala parah",
+        "penyakit": "Leptospirosis",
+        "solusi": "Antibiotik dini, hindari kontak dengan air banjir, perawatan rumah sakit untuk kasus berat."
+    },
+    {
+        "keluhan": "demam menggigil sakit kepala nyeri otot",
+        "penyakit": "Demam Tifoid",
+        "solusi": "Antibiotik khusus, istirahat total, diet rendah serat, higiene makanan ketat."
+    },
+    {
+        "keluhan": "demam sakit kepala kaku leher",
+        "penyakit": "Meningitis",
+        "solusi": "DARURAT MEDIS! Butuh pengobatan antibiotik intravena segera di rumah sakit."
+    },
+    {
+        "keluhan": "demam kejang penurunan kesadaran",
+        "penyakit": "Ensefalitis",
+        "solusi": "Perawatan intensif, antivirus jika disebabkan virus, terapi suportif."
+    },
+    {
+        "keluhan": "demam nyeri sendi ruam kulit",
+        "penyakit": "Chikungunya",
+        "solusi": "Istirahat, obat anti nyeri, kompres hangat untuk nyeri sendi, hindari gigitan nyamuk."
+    },
+    {
+        "keluhan": "demam nyeri belakang mata nyeri otot",
+        "penyakit": "Demam Zika",
+        "solusi": "Istirahat, banyak minum, obat penurun demam. Hindari gigitan nyamuk terutama ibu hamil."
+    },
+    {
+        "keluhan": "demam tinggi perdarahan spontan syok",
+        "penyakit": "Demam Berdarah Dengue Berat",
+        "solusi": "DARURAT! Butuh resusitasi cairan intravena dan perawatan intensif segera."
+    },
+    {
+        "keluhan": "pusing berputar mual muntah",
+        "penyakit": "Vertigo",
+        "solusi": "Maneuver Epley jika BPPV, obat anti vertigo, hindari gerakan kepala mendadak."
+    },
+    {
+        "keluhan": "sakit kepala hebat seperti diikat",
+        "penyakit": "Tension Headache",
+        "solusi": "Relaksasi, kompres hangat di leher, pijat ringan, obat pereda nyeri jika perlu."
+    },
+    {
+        "keluhan": "sakit kepala sebelah berdenyut mual",
+        "penyakit": "Migrain",
+        "solusi": "Istirahat di ruangan gelap, obat triptan jika tersedia, hindari pemicu seperti coklat/keju."
+    },
+    {
+        "keluhan": "sakit kepala mendadak sangat hebat",
+        "penyakit": "Perdarahan Subarachnoid",
+        "solusi": "DARURAT NEUROLOGI! CT scan kepala segera, mungkin perlu angiogram dan operasi."
+    },
+    {
+        "keluhan": "lemas sebelah tubuh bicara pelo",
+        "penyakit": "Stroke",
+        "solusi": "DARURAT! Segera ke rumah sakit dalam golden period 4.5 jam untuk terapi trombolisis."
+    },
+    {
+        "keluhan": "kesemutan wajah kejang separuh tubuh",
+        "penyakit": "Epilepsi",
+        "solusi": "Lindungi dari cedera selama kejang, catat durasi kejang, konsultasi neurologis."
+    },
+    {
+        "keluhan": "tremor gerakan lambat kaku otot",
+        "penyakit": "Parkinson",
+        "solusi": "Terapi obat dopaminergik, terapi fisik untuk keseimbangan, evaluasi neurologis berkala."
+    },
+    {
+        "keluhan": "lupa ingatan jangka pendek disorientasi",
+        "penyakit": "Demensia",
+        "solusi": "Terapi kognitif, buat rutinitas, gunakan alat bantu ingatan, support system keluarga."
+    },
+    {
+        "keluhan": "gangguan tidur mimpi buruk berteriak malam",
+        "penyakit": "REM Sleep Behavior Disorder",
+        "solusi": "Lingkungan tidur aman, obat penenang ringan, evaluasi neurologis."
+    },
+    {
+        "keluhan": "sering terbangun nafas terhenti saat tidur",
+        "penyakit": "Sleep Apnea",
+        "solusi": "CPAP, turunkan berat badan jika obesitas, hindari alkohol sebelum tidur."
+    },
+    {
+        "keluhan": "nyeri dada panas menjalar ke punggung",
+        "penyakit": "GERD",
+        "solusi": "Makan porsi kecil, hindari berbaring setelah makan, elevasi kepala tempat tidur."
+    },
+    {
+        "keluhan": "nyeri ulu hati mual perut kembung",
+        "penyakit": "Gastritis",
+        "solusi": "Hindari makanan pedas/berminyak/asam, obat antasida, makan teratur."
+    },
+    {
+        "keluhan": "sakit perut diare setelah minum susu",
+        "penyakit": "Intoleransi Laktosa",
+        "solusi": "Hindari produk susu, gunakan susu bebas laktosa, suplemen enzim laktase."
+    },
+    {
+        "keluhan": "sakit perut diare setelah makan gandum",
+        "penyakit": "Penyakit Celiac",
+        "solusi": "Diet bebas gluten seumur hidup, hindari terigu, gandum, jelai."
+    },
+    {
+        "keluhan": "perut kembung sering sendawa tidak nyaman",
+        "penyakit": "Dispepsia Fungsional",
+        "solusi": "Makan perlahan, hindari makanan berlemak, obat antasida, manajemen stres."
+    },
+    {
+        "keluhan": "susah BAB feses keras",
+        "penyakit": "Konstipasi",
+        "solusi": "Banyak serat, banyak minum, olahraga teratur, laksatif jika perlu."
+    },
+    {
+        "keluhan": "BAB berdarah segar nyeri saat BAB",
+        "penyakit": "Wasir",
+        "solusi": "Diet tinggi serat, duduk rendam air hangat, krim antihemoroid, operasi jika berat."
+    },
+    {
+        "keluhan": "kulit gatal bentol merah",
+        "penyakit": "Urtikaria",
+        "solusi": "Antihistamin, kompres dingin, identifikasi dan hindari pemicu alergi."
+    },
+    {
+        "keluhan": "kulit kering bersisik gatal",
+        "penyakit": "Dermatitis Atopik",
+        "solusi": "Pelembab intensif, steroid topikal, hindari sabun keras, identifikasi pemicu alergi."
+    },
+    {
+        "keluhan": "jerawat merah bernanah bekas hitam",
+        "penyakit": "Acne Vulgaris",
+        "solusi": "Pembersih wajah lembut, retinoid topikal, antibiotik oral untuk kasus berat."
+    },
+    {
+        "keluhan": "rambut rontok berbentuk bulat",
+        "penyakit": "Alopecia Areata",
+        "solusi": "Suntikan steroid lokal, terapi imunomodulator, evaluasi stres psikologis."
+    },
+    {
+        "keluhan": "kuku kuning tebal rapuh",
+        "penyakit": "Onychomycosis",
+        "solusi": "Antijamur oral jangka panjang, pernis antijamur, jaga kaki tetap kering."
+    },
+    {
+        "keluhan": "mata merah gatal berair",
+        "penyakit": "Konjungtivitis Alergi",
+        "solusi": "Kompres dingin, antihistamin tetes mata, hindari menggosok mata."
+    },
+    {
+        "keluhan": "mata merah nyeri penglihatan kabur",
+        "penyakit": "Glaukoma Akut",
+        "solusi": "DARURAT OFTALMOLOGI! Butuh penurunan tekanan bola mata segera dengan obat dan laser."
+    },
+    {
+        "keluhan": "telinga sakit demam gangguan pendengaran",
+        "penyakit": "Otitis Media",
+        "solusi": "Antibiotik, obat tetes telinga, kompres hangat, evaluasi THT."
+    },
+    {
+        "keluhan": "telinga berdenging gangguan pendengaran",
+        "penyakit": "Tinnitus",
+        "solusi": "Terapi suara, manajemen stres, hindari kebisingan, evaluasi penyebab dasar."
+    },
+    {
+        "keluhan": "hidung tersumbat nyeri wajah",
+        "penyakit": "Sinusitis",
+        "solusi": "Irigasi nasal saline, dekongestan, antibiotik jika infeksi bakteri."
+    },
+    {
+        "keluhan": "hidung mimisan berulang",
+        "penyakit": "Epistaksis",
+        "solusi": "Duduk tegak, jepit hidung 10 menit, kompres dingin. Jika berat butuh pemasangan tampon."
+    },
+    {
+        "keluhan": "sariawan berulang nyeri mulut",
+        "penyakit": "Stomatitis Aftosa",
+        "solusi": "Gel anestesi topikal, hindari makanan asam/pedas, evaluasi defisiensi nutrisi."
+    },
+    {
+        "keluhan": "gusi bengkak berdarah gigi goyang",
+        "penyakit": "Periodontitis",
+        "solusi": "Scaling gigi profesional, sikat gigi teknik Bass, benang gigi, stop merokok."
+    },
+    {
+        "keluhan": "sakit gigi berdenyut bengkak pipi",
+        "penyakit": "Abses Gigi",
+        "solusi": "Antibiotik, pereda nyeri, perawatan saluran akar atau pencabutan gigi."
+    },
+    {
+        "keluhan": "nyeri sendi bengkak kaku pagi hari",
+        "penyakit": "Artritis Reumatoid",
+        "solusi": "Obat DMARD, terapi fisik, kompres hangat/dingin, evaluasi rheumatologis."
+    },
+    {
+        "keluhan": "nyeri punggung bawah menjalar ke kaki",
+        "penyakit": "HNP Lumbal",
+        "solusi": "Istirahat 1-2 hari, terapi fisik, obat antiinflamasi, operasi jika ada defisit neurologis."
+    },
+    {
+        "keluhan": "nyeri leher kaku sakit kepala",
+        "penyakit": "Cervical Spondylosis",
+        "solusi": "Terapi fisik, kompres hangat, obat relaksan otot, perbaikan postur."
+    },
+    {
+        "keluhan": "nyeri lutut bengkak krepitasi",
+        "penyakit": "Osteoarthritis Lutut",
+        "solusi": "Turunkan berat badan, latihan low-impact, suplemen glukosamin, suntikan hyaluronat."
+    },
+    {
+        "keluhan": "nyeri pergelangan tangan kesemutan jari",
+        "penyakit": "Carpal Tunnel Syndrome",
+        "solusi": "Splint pergelangan tangan, suntikan steroid, operasi release jika berat."
+    },
+    {
+        "keluhan": "demam nyeri tenggorokan bercak putih amandel",
+        "penyakit": "Tonsilitis",
+        "solusi": "Antibiotik jika streptokokus, pereda nyeri, banyak minum, istirahat."
+    },
+    {
+        "keluhan": "sulit menelan nyeri dada regurgitasi",
+        "penyakit": "GERD",
+        "solusi": "Makan porsi kecil, hindari berbaring setelah makan, elevasi kepala tempat tidur."
+    },
+    {
+        "keluhan": "suara serak lebih 3 minggu",
+        "penyakit": "Laringitis Kronis",
+        "solusi": "Istirahat suara, hindari rokok, evaluasi THT untuk menyingkirkan keganasan."
+    },
+    {
+        "keluhan": "benjolan leher keras tidak nyeri",
+        "penyakit": "Limfadenopati",
+        "solusi": "Evaluasi penyebab infeksi/keganasan, biopsi jika diperlukan, pengobatan sesuai penyebab."
+    },
+    {
+        "keluhan": "payudara benjolan keras tidak nyeri",
+        "penyakit": "Kanker Payudara",
+        "solusi": "Mamografi, USG payudara, biopsi. Terapi sesuai stadium (operasi, kemoterapi, radiasi)."
+    },
+    {
+        "keluhan": "perdarahan vagina pasca menopause",
+        "penyakit": "Kanker Endometrium",
+        "solusi": "Evaluasi ginekologis mendesak, USG transvaginal, biopsi endometrium."
+    },
+    {
+        "keluhan": "BAB berdarah perubahan kebiasaan BAB",
+        "penyakit": "Kanker Kolorektal",
+        "solusi": "Kolonoskopi, biopsi, CT scan. Terapi sesuai stadium (operasi, kemoterapi)."
+    },
+    {
+        "keluhan": "batuk berdarah berat badan turun",
+        "penyakit": "Kanker Paru",
+        "solusi": "CT scan toraks, bronkoskopi, biopsi. Terapi sesuai jenis dan stadium kanker."
+    },
+    {
+        "keluhan": "sering haus sering kencing lemas",
+        "penyakit": "Diabetes Melitus",
+        "solusi": "Diet diabetes, olahraga teratur, obat hipoglikemik oral/insulin, monitor gula darah."
+    },
+    {
+        "keluhan": "lemas kulit kering sembelit",
+        "penyakit": "Hipotiroid",
+        "solusi": "Terapi pengganti hormon tiroid, kontrol TSH rutin, diet tinggi serat."
+    },
+    {
+        "keluhan": "jantung berdebar berat badan turun gelisah",
+        "penyakit": "Hipertiroid",
+        "solusi": "Obat antitiroid, terapi radioiodin, operasi tiroid, kontrol fungsi tiroid rutin."
+    },
+    {
+        "keluhan": "wajah bulan badan gemuk kulit tipis",
+        "penyakit": "Sindrom Cushing",
+        "solusi": "Evaluasi penyebab (obat, tumor), kontrol kortisol, terapi spesifik sesuai penyebab."
+    },
+    {
+        "keluhan": "kulit gelap lemas hipotensi",
+        "penyakit": "Penyakit Addison",
+        "solusi": "Terapi pengganti hormon steroid, identifikasi penyebab, edukasi krisis adrenal."
+    },
+    {
+        "keluhan": "sering haus sering kencing volume banyak",
+        "penyakit": "Diabetes Insipidus",
+        "solusi": "Terapi desmopresin, hidrasi cukup, identifikasi penyebab (sentral/nefrogenik)."
+    },
+    {
+        "keluhan": "nyeri tulang kadar kalsium tinggi",
+        "penyakit": "Hiperparatiroid",
+        "solusi": "Operasi paratiroid, hidrasi, hindari diuretik tiazid, kontrol kadar kalsium."
+    },
+    {
+        "keluhan": "kesemutan kram otot tetani",
+        "penyakit": "Hipokalsemia",
+        "solusi": "Kalsium intravena untuk kasus berat, suplemen kalsium dan vitamin D jangka panjang."
+    },
+    {
+        "keluhan": "nyeri sendi kadar asam urat tinggi",
+        "penyakit": "Gout Artritis",
+        "solusi": "Obat antiinflamasi untuk serangan akut, allopurinol untuk terapi jangka panjang, diet rendah purin."
+    },
+    {
+        "keluhan": "nyeri perut kadar amilase tinggi",
+        "penyakit": "Pankreatitis Akut",
+        "solusi": "Puasa, cairan intravena, pereda nyeri kuat, evaluasi penyebab (batu empedu/alkohol)."
+    },
+    {
+        "keluhan": "mata kuning gatal kadar bilirubin tinggi",
+        "penyakit": "Kolestasis",
+        "solusi": "Obat ursodeoksikolat, vitamin K jika ada defisiensi, evaluasi penyebab obstruksi."
+    },
+    {
+        "keluhan": "urin seperti teh pekat kadar hemoglobin rendah",
+        "penyakit": "Hemolisis",
+        "solusi": "Transfusi jika anemia berat, identifikasi penyebab (autoimun/infeksi/obat), steroid untuk AIHA."
+    },
+    {
+        "keluhan": "mimisan perdarahan gusi kadar trombosit rendah",
+        "penyakit": "Trombositopenia",
+        "solusi": "Transfusi trombosit jika perdarahan aktif, steroid untuk ITP, hindari aktivitas berisiko."
+    },
+    {
+        "keluhan": "demam kadar leukosit tinggi",
+        "penyakit": "Infeksi Bakteri",
+        "solusi": "Antibiotik spektrum luas, kultur darah/urin/dahak, terapi sesuai sensitivitas."
+    },
+    {
+        "keluhan": "demam kadar leukosit rendah",
+        "penyakit": "Infeksi Virus",
+        "solusi": "Terapi suportif, istirahat, hidrasi. Antibiotik hanya jika ada infeksi sekunder."
+    },
+    {
+        "keluhan": "sesak nafas kadar oksigen rendah",
+        "penyakit": "Hipoksemia",
+        "solusi": "Oksigen tambahan, identifikasi penyebab (paru/jantung), terapi spesifik sesuai diagnosis."
+    },
+    {
+        "keluhan": "urin berbusa kadar protein urin tinggi",
+        "penyakit": "Sindrom Nefrotik",
+        "solusi": "Steroid, diet rendah garam, diuretik, kontrol proteinuria, evaluasi penyebab."
+    },
+    {
+        "keluhan": "bengkak seluruh tubuh kadar albumin rendah",
+        "penyakit": "Sindrom Nefrotik",
+        "solusi": "Restriksi garam, diuretik, steroid, infus albumin jika berat, evaluasi fungsi ginjal."
+    },
+    {
+        "keluhan": "urin keruh nyeri pinggang kadar leukosit urin tinggi",
+        "penyakit": "Pielonefritis",
+        "solusi": "Antibiotik intravena untuk kasus berat, hidrasi cukup, kultur urin, terapi sesuai sensitivitas."
+    },
+    {
+        "keluhan": "nyeri dada EKG abnormal enzim jantung tinggi",
+        "penyakit": "Infark Miokard",
+        "solusi": "Reperfusi segera (PCI trombolisis), aspirin, nitrat, beta blocker, monitor intensif."
+    },
+    {
+        "keluhan": "sesak nafas ronkhi basal EKG abnormal",
+        "penyakit": "Gagal Jantung",
+        "solusi": "Diuretik, ACE inhibitor, beta blocker, restriksi garam dan cairan, monitor berat badan harian."
+    },
+    {
+        "keluhan": "palpitasi denyut jantung tidak teratur",
+        "penyakit": "Fibrilasi Atrium",
+        "solusi": "Kontrol laju ventrikel, antikoagulan untuk prevensi stroke, kardioversi jika indikasi."
+    },
+    {
+        "keluhan": "nyeri dada menjalar ke punggung tekanan darah berbeda lengan",
+        "penyakit": "Disseksi Aorta",
+        "solusi": "DARURAT! Kontrol tekanan darah ketat, CT angiografi, konsultasi bedah vaskular segera."
+    },
+    {
+        "keluhan": "bengkak tungkai unilateral kemerahan",
+        "penyakit": "Trombosis Vena Dalam",
+        "solusi": "Antikoagulan, kompresi elastis, hindari mobilisasi dini, screen untuk emboli paru."
+    },
+    {
+        "keluhan": "sesak nafas mendadak nyeri dada pleuritik",
+        "penyakit": "Emboli Paru",
+        "solusi": "Antikoagulan, oksigen, trombolisis jika masif, cari sumber trombus (biasanya dari tungkai)."
+    },
+    {
+        "keluhan": "batuk darah nyeri dada foto toraks abnormal",
+        "penyakit": "Tuberkulosis Paru",
+        "solusi": "Isolasi, pengobatan OAT selama 6 bulan, pemeriksaan kontak serumah, notifikasi wajib."
+    },
+    {
+        "keluhan": "sesak nafas progresif ronkhi halus",
+        "penyakit": "Gagal Napas",
+        "solusi": "Oksigen, ventilasi mekanik jika perlu, identifikasi dan terapi penyebab dasar."
+    },
+    {
+        "keluhan": "mengi berulang sesak nafas reversibel dengan bronkodilator",
+        "penyakit": "Asma",
+        "solusi": "Inhaler kortikosteroid dan bronkodilator, hindari pemicu, action plan untuk serangan akut."
+    },
+    {
+        "keluhan": "batuk kronik dahak banyak lebih 2 tahun",
+        "penyakit": "Bronkitis Kronik",
+        "solusi": "Berhenti merokok, bronkodilator, rehabilitasi pulmonal, vaksinasi influenza dan pneumokokus."
+    },
+    {
+        "keluhan": "sesak nafas progresif barrel chest",
+        "penyakit": "PPOK",
+        "solusi": "Berhenti merokok, bronkodilator, oksigen jangka panjang jika hipoksemia, rehabilitasi pulmonal."
+    },
+    {
+        "keluhan": "demam nyeri dada foto toraks infiltrat",
+        "penyakit": "Pneumonia",
+        "solusi": "Antibiotik empiris, oksigen jika perlu, hidrasi, vaksinasi pencegahan setelah pulih."
+    },
+    {
+        "keluhan": "sesak nafas progresif foto toraks fibrosis",
+        "penyakit": "Fibrosis Paru",
+        "solusi": "Obat antifibrotik, oksigen, rehabilitasi pulmonal, evaluasi untuk transplantasi paru."
+    },
+    {
+        "keluhan": "sesak nafas efusi pleura",
+        "penyakit": "Efusi Pleura",
+        "solusi": "Torakosentesis untuk analisis cairan, terapi sesuai penyebab (infeksi/keganasan/gagal jantung)."
+    },
+    {
+        "keluhan": "nyeri dada pleuritik bunyi gesek pleura",
+        "penyakit": "Pleuritis",
+        "solusi": "Obat antiinflamasi, identifikasi penyebab (infeksi/autoimun), drainase jika efusi besar."
+    },
+    {
+        "keluhan": "hemoptisis massif",
+        "penyakit": "Hemoptisis Massif",
+        "solusi": "Proteksi jalan napas, posisi miring ke sisi perdarahan, bronkoskopi emergensi, embolisasi arteri bronkialis."
+    },
+    {
+        "keluhan": "gangguan menelan suara serak",
+        "penyakit": "Kanker Laring",
+        "solusi": "Evaluasi endoskopi, biopsi, CT/MRI stadium, terapi kombinasi (operasi/radiasi/kemoterapi)."
+    },
+    {
+        "keluhan": "benjolan tiroid pembesaran kelenjar getah bening leher",
+        "penyakit": "Kanker Tiroid",
+        "solusi": "USG tiroid, biopsi aspirasi, tiroidektomi, terapi radioiodin untuk kanker terdiferensiasi."
+    },
+    {
+        "keluhan": "kulit gatal ikterus penurunan berat badan",
+        "penyakit": "Kanker Pankreas",
+        "solusi": "CT abdomen, ERCP, penanda tumor (CA 19-9), evaluasi untuk reseksi bedah jika memungkinkan."
+    },
+    {
+        "keluhan": "perut membesar asites penurunan berat badan",
+        "penyakit": "Kanker Ovarium",
+        "solusi": "USG transvaginal, CT/MRI, penanda tumor (CA-125), debulking bedah dan kemoterapi."
+    },
+    {
+        "keluhan": "hematuria tanpa nyeri massa abdomen",
+        "penyakit": "Kanker Ginjal",
+        "solusi": "CT abdomen dengan kontras, nefrektomi, terapi target (antiangiogenik), imunoterapi."
+    },
+    {
+        "keluhan": "testis membesar keras tidak nyeri",
+        "penyakit": "Kanker Testis",
+        "solusi": "USG skrotum, penanda tumor (AFP, β-hCG, LDH), orkiektomi, kemoterapi adjuvan sesuai jenis tumor."
+    },
+    {
+        "keluhan": "keringat malam pembesaran kelenjar getah bening",
+        "penyakit": "Limfoma",
+        "solusi": "Biopsi kelenjar, CT/PET scan stadium, kemoterapi, radioterapi, transplantasi sumsum untuk kasus tertentu."
+    },
+    {
+        "keluhan": "nyeri tulang kadar kalsium tinggi anemia",
+        "penyakit": "Multiple Myeloma",
+        "solusi": "Elektroforesis protein, biopsi sumsum tulang, kemoterapi, transplantasi sel punca."
+    },
+    {
+        "keluhan": "kelelahan pucat perdarahan spontan",
+        "penyakit": "Leukemia",
+        "solusi": "Hitung darah lengkap, aspirasi sumsum tulang, kemoterapi induksi, transplantasi sumsum tulang."
+    },
+    {
+        "keluhan": "sakit kepala muntah proyektil papiledema",
+        "penyakit": "Tumor Otak",
+        "solusi": "MRI kepala dengan kontras, konsultasi bedah saraf, dekompresi, radioterapi/kemoterapi sesuai jenis tumor."
+    },
+    {
+        "keluhan": "kejang fokal defisit neurologis fokal",
+        "penyakit": "Tumor Otak",
+        "solusi": "MRI kepala, terapi antikonvulsan, reseksi bedah jika memungkinkan, radioterapi/kemoterapi."
+    },
+    {
+        "keluhan": "nyeri tulang fraktur patologis",
+        "penyakit": "Metastasis Tulang",
+        "solusi": "Pencitraan tulang (bone scan/MRI), radioterapi paliatif, bifosfonat, stabilisasi ortopedi."
+    },
+    {
+        "keluhan": "sesak nafas efusi pleura hemoragik",
+        "penyakit": "Metastasis Paru",
+        "solusi": "CT toraks, torakosentesis, terapi sistemik (kemoterapi/target therapy/immunotherapy) sesuai kanker primer."
+    },
+    {
+        "keluhan": "nyeri perut asites hemoragik",
+        "penyakit": "Karsinomatosis Peritoneal",
+        "solusi": "Sitoreduksi bedah, kemoterapi intraperitoneal, terapi paliatif untuk manajemen gejala."
+    },
+    {
+        "keluhan": "ikterus obstruktif nyeri perut kanan atas",
+        "penyakit": "Kanker Kandung Empedu",
+        "solusi": "MRCP, ERCP untuk drainase biliar, reseksi bedah jika memungkinkan, kemoterapi paliatif."
+    },
+    {
+        "keluhan": "perdarahan saluran cerna melena",
+        "penyakit": "Kanker Lambung",
+        "solusi": "Endoskopi atas, biopsi, CT abdomen, reseksi bedah, kemoterapi adjuvan."
+    },
+    {
+        "keluhan": "obstruksi usus nyeri perut kolik",
+        "penyakit": "Kanker Kolon",
+        "solusi": "CT abdomen, kolonoskopi, reseksi emergensi jika obstruksi, kemoterapi adjuvan."
+    },
+    {
+        "keluhan": "urin seperti susu filariasis",
+        "penyakit": "Kilkuria Filariasis",
+        "solusi": "Obat antifilarial (DEC), terapi suportif, pencegahan dengan menghindari gigitan nyamuk."
+    },
+    {
+        "keluhan": "demam berkeringat menggigil periodik",
+        "penyakit": "Malaria",
+        "solusi": "Tes darah tepi, obat antimalaria sesuai jenis plasmodium, pencegahan dengan kelambu berinsektisida."
+    },
+    {
+        "keluhan": "borok kulit tidak nyeri",
+        "penyakit": "Leishmaniasis",
+        "solusi": "Obat antimon, perawatan luka, pencegahan dengan menghindari gigitan lalat pasir."
+    },
+    {
+        "keluhan": "demam nyeri otot ruam kulit",
+        "penyakit": "Demam Berdarah",
+        "solusi": "Istirahat, hidrasi, monitor trombosit, transfusi jika perdarahan."
+    },
+    {
+        "keluhan": "nyeri perut diare berdarah",
+        "penyakit": "Disentri Amoeba",
+        "solusi": "Metronidazole, tinidazole, perbaikan sanitasi, cuci tangan pakai sabun."
+    },
+    {
+        "keluhan": "gatal kulit malam hari",
+        "penyakit": "Skabies",
+        "solusi": "Permethrin cream untuk seluruh tubuh, cuci pakaian dan sprei dengan air panas."
+    },
+    {
+        "keluhan": "gatal kulit kepala rambut rontok",
+        "penyakit": "Tinea Kapitis",
+        "solusi": "Antijamur oral (griseofulvin), sampo antijamur, hindari berbagi alat pribadi."
+    },
+    {
+        "keluhan": "demam nyeri tenggorokan limfadenopati",
+        "penyakit": "Mononukleosis Infeksiosa",
+        "solusi": "Istirahat, hindari aktivitas berat, pengobatan simtomatik, hindari kontak dengan air liur."
+    },
+    {
+        "keluhan": "demam ruam mukokutan",
+        "penyakit": "Demam Berdarah",
+        "solusi": "Istirahat, hidrasi, monitor trombosit, hindari obat pengencer darah."
+    },
+    {
+        "keluhan": "demam nyeri sendi ruam kulit",
+        "penyakit": "Chikungunya",
+        "solusi": "Istirahat, obat anti nyeri, kompres hangat untuk nyeri sendi, hindari gigitan nyamuk."
+    },
+    {
+        "keluhan": "demam nyeri belakang mata ruam kulit",
+        "penyakit": "Demam Zika",
+        "solusi": "Istirahat, banyak minum, obat penurun demam. Hindari gigitan nyamuk terutama ibu hamil."
+    },
+    {
+        "keluhan": "demam tinggi perdarahan spontan syok",
+        "penyakit": "Demam Berdarah Dengue Berat",
+        "solusi": "DARURAT! Butuh resusitasi cairan intravena dan perawatan intensif segera."
+    },
+    {
+        "keluhan": "demam batuk pilek sakit tenggorokan",
+        "penyakit": "Flu Biasa",
+        "solusi": "Istirahat, banyak minum, obat penurun demam, vitamin C, gunakan masker."
+    },
+    {
+        "keluhan": "demam batuk sesak nafas",
+        "penyakit": "COVID-19",
+        "solusi": "Isolasi mandiri, monitor saturasi oksigen, konsultasi dokter via telemedicine, vaksinasi."
+    }
+]

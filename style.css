@@ -1,0 +1,127 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #7f8c8d;
+    margin-bottom: 30px;
+}
+
+.input-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+#keluhan-input {
+    width: 100%;
+    min-height: 120px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    resize: vertical;
+    font-family: inherit;
+    margin-bottom: 15px;
+}
+
+#predict-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+#predict-btn:hover {
+    background-color: #2980b9;
+}
+
+.result-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.result-section.hidden {
+    display: none;
+}
+
+.result-card {
+    border-left: 4px solid #3498db;
+    padding-left: 15px;
+}
+
+.disease-info h3 {
+    color: #2c3e50;
+    margin-top: 0;
+}
+
+#confidence {
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+.treatment-info {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+.treatment-info h4 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.info-section {
+    font-size: 14px;
+    color: #7f8c8d;
+    text-align: center;
+}
+
+.swal2-popup {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.swal2-title {
+    color: #2c3e50;
+}
+
+.swal2-confirm {
+    background-color: #3498db !important;
+}
+
+.swal2-confirm:hover {
+    background-color: #2980b9 !important;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+    }
+}
