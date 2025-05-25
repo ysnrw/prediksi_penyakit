@@ -17,7 +17,7 @@ const fallbackDataset = [
 const showLoading = () => {
   Swal.fire({
     title: 'Memproses',
-    html: 'Sedang menganalisis...',
+    html: 'Training model... <b>0%</b>',
     allowOutsideClick: false,
     didOpen: () => Swal.showLoading()
   });
@@ -95,13 +95,19 @@ const initModel = async () => {
     );
     
     await model.fit(xs, ys, {
-        epochs: 200,
-        batchSize: 8,
-        callbacks: {
-            onEpochEnd: (epoch, logs) => {
-            console.log(`Epoch ${epoch}: loss = ${logs.loss.toFixed(4)}`);
-            }
+      epochs: 200,
+      batchSize: 8,
+      callbacks: {
+        onEpochEnd: async (epoch, logs) => {
+          const progress = ((epoch + 1) / 200 * 100).toFixed(2);
+          const progressText = `Training model... <b>${progress}%</b><br>Loss: ${logs.loss.toFixed(4)}`;
+
+          const htmlContainer = Swal.getHtmlContainer();
+          if (htmlContainer) {
+            htmlContainer.innerHTML = progressText;
+          }
         }
+      }
     });
     
     xs.dispose();
